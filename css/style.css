@@ -96,6 +96,8 @@ footer {
   text-align: center;
   font-size: 0.8em;
   bottom: 0;
+  background-color: #343a40;
+  color: white;
 
 }
 footer ul {
